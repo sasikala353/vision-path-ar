@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VisionPath ",
+  "description": "The 'Magic Lens' for your textbooks. Discover real-world careers, salaries, and modern learning paths directly from your study material.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
